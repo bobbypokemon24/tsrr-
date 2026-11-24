@@ -1,0 +1,1 @@
+{"name":"Channel Export","description":"Export a channel you can access to local JSON files, with progress and cancellation.","authors":[{"name":"Codex","id":"0"}],"main":"index.js","vendetta":{"icon":"ic_download_24px"},"hash":"7f7593fc2233e623ca46f782cf5d9326e984a36e3e56e7990caf5e094f48b7ee"}
